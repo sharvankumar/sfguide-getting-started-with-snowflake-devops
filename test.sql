@@ -1,1 +1,1 @@
-execute immediate from 'steps/test_snowflake.sql';
+execute immediate from 'steps/0_test.sql';
